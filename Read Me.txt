@@ -1,0 +1,17 @@
+Cómo ejecutar el proyecto del Sistema de Gestion Hospitalaria Union de la Organizacion Hospitalaria La Union, Por: Servisoport medical
+1. Descargue el archivo zip
+
+2. Extraiga el archivo y copie la carpeta del hospital.
+
+3.Pegue dentro del directorio raíz (for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+
+4. Abra PHPMyAdmin (http://localhost/phpmyadmin)
+
+5. Importe el archivo hms.sql (que se encuentra dentro del paquete zip en la carpeta de archivos SQL)
+
+6.Ejecute el script http://localhost/hospital (frontend)
+
+usuarios de prueba
+admin : admin/Test@12345
+Paciente:tetuser@gmail.com/Test@123
+Doctor: test@demo.com/Test@123
